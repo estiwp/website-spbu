@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lokfas" value="name:No;datatype:int,name:Lokasi;datatype:string,name:Fasilitas;datatype:string" />
+	<infoitem key="UD_tampil" value="name:No;datatype:int,name:Lokasi;datatype:string,name:Fasilitas;datatype:string,name:Jam Operasional;datatype:string,name:Jenis Produk;datatype:string" />
+	<infoitem key="UD_tampill" value="name:No;datatype:int,name:Lokasi;datatype:string,name:Fasilitas;datatype:string,name:Jam Operasional;datatype:string,name:Jenis Produk;datatype:string" />
+</info>
